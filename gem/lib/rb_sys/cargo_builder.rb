@@ -1,3 +1,4 @@
+require 'regexp-match-polyfill'
 require "rubygems/ext"
 require "rubygems/ext/builder"
 require_relative "cargo_builder/link_flag_converter"
